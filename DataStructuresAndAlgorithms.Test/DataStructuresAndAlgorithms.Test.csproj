@@ -61,7 +61,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\DataStructuresAndAlgorithms.Logic\DataStructuresAndAlgorithms.Logic.csproj">
+    <ProjectReference Include="..\DataStructuresAndAlgorithms.Logic\DataStructuresAndAlgorithms.Logic.csproj">
       <Project>{26fc7659-9eaa-4393-ad3c-94556bc2ef3f}</Project>
       <Name>DataStructuresAndAlgorithms.Logic</Name>
     </ProjectReference>
